@@ -1,0 +1,71 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "yearData": [
+        {
+          "year": 1990,
+          "isChecked": true
+        },
+        {
+          "year": 1991,
+          "isChecked": true
+        },
+        {
+          "year": 1992,
+          "isChecked": true
+        },
+        {
+          "year": 1993,
+          "isChecked": true
+        },
+        {
+          "year": 1994,
+          "isChecked": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "yearData": [
+        {
+          "year": 1932,
+          "isChecked": true
+        },
+        {
+          "year": 1956,
+          "isChecked": true
+        },
+        {
+          "year": 1960,
+          "isChecked": true
+        },
+        {
+          "year": 1965,
+          "isChecked": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "yearData": [
+        {
+          "year": 2001,
+          "isChecked": true
+        },
+        {
+          "year": 2002,
+          "isChecked": true
+        },
+        {
+          "year": 2003,
+          "isChecked": true
+        },
+        {
+          "year": 2004,
+          "isChecked": true
+        }
+      ]
+    }
+  ]
+}
